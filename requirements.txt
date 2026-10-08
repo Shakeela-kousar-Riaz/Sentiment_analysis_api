@@ -1,0 +1,10 @@
+
+fastapi
+uvicorn[standard]
+transformers
+torch
+pydantic
+pytest
+httpx
+datasets
+scikit-learn
